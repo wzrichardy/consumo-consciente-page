@@ -8,7 +8,7 @@ Landing page institucional do projeto **Consumo Consciente**, iniciativa educaci
 
 | Recurso | Endereço |
 |---|---|
-| Site institucional | https://consumo-consciente-page.vercel.app |
+| Site institucional | Consulte o domínio de produção no painel Vercel conectado a este repositório |
 | Repositório GitHub | https://github.com/wzrichardy/consumo-consciente-page |
 | Aplicativo | https://consumo-consciente.base44.app |
 | Arquivo principal | [index.html](./index.html) |
