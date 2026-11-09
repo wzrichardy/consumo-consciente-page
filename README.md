@@ -58,17 +58,6 @@ A interface utiliza uma linguagem visual leve, institucional e responsiva, com t
 
 Não há framework JavaScript, gerenciador de pacotes ou etapa de compilação declarada no repositório. O ponto de entrada é `index.html`.
 
-## Executar localmente
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/wzrichardy/consumo-consciente-page.git
-   ```
-2. Abra a pasta do projeto.
-3. Abra `index.html` no navegador ou utilize a extensão Live Server do Visual Studio Code.
-
-Como é uma página estática, não é necessário instalar dependências para visualizar a versão atual.
-
 ## Publicação na Vercel
 
 1. Acesse a Vercel e importe **exatamente** o repositório `wzrichardy/consumo-consciente-page`.
